@@ -1,0 +1,16 @@
+country,age,salary,purchase
+USA,25,50000,True
+India,30,,False
+UK,,70000,True
+France,45,,False
+France,35,65000,
+,40,62000,True
+Japan,28,55000,False
+Australia,33,,True
+Canada,,58000,False
+India,,60000,True
+UK,29,54000,False
+China,42,,True
+India,,68000,
+Japan,37,,False
+China,31,63000,True
