@@ -19,7 +19,6 @@ class Patient(BaseModel):
 
 
 
-    
 
 
 data_dict = {
